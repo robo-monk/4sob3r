@@ -1,0 +1,6 @@
+manager: yarn
+
+package_npm_name: 4sob3r
+package_name: 4sob3r
+
+test?: no # or yes
